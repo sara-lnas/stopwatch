@@ -26,4 +26,4 @@ Exercício que simula a funcionalidade de um cronômetro.
 
  ###
 
-**Link do site:** <i>[clique aqui](https://stopwatch-navy.vercel.app/) <br>
+**Link do site:** <i>[clique aqui](https://sara-lnas.github.io/stopwatch/) <br>
